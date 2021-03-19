@@ -11,7 +11,4 @@ int main()
     printf("Да здравствуют славяне!!!");
     getch();
     return 0;
-
-    vdfjnbsbsdjbglskndk
-    
 }
